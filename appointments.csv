@@ -1,0 +1,2 @@
+appt_id,patient_id,patient_name,doctor_id,doctor_name,date,time,status,fee
+A1,P1,Zara Khan,D1,Ahmed Ali,25/05/2025,10:00,Confirmed,2000
